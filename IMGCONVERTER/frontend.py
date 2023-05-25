@@ -24,7 +24,7 @@ tabview.tab("CONVERTER").grid_columnconfigure(0, weight=1)
 tabview.add("OPÇÕES")
 tabview.tab("OPÇÕES").grid_columnconfigure(0, weight=1)
 
-#CONFIGURAÇÃO DE JPG PARA PNG
+#CONFIGURAÇÃO DA JANELA DE CONVERSÃO
 
 
 values = ['webp', 'png', 'jpeg']
